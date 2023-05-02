@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Mertcan, I'm studying at Yıldız Technical University. I am interested in Python programming, statistics and data science and i am improving myself on these subjects
+I'm Mertcan, I'm studying at Yıldız Technical University. I am interested in Python programming, statistics and data science and i am improving myself on these subjects.
 
 
 ## 🌐 Socials:
@@ -13,6 +13,5 @@ I'm Mertcan, I'm studying at Yıldız Technical University. I am interested in P
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=demirelmrtcn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=demirelmrtcn&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=demirelmrtcn&icon=2&color=1)]
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

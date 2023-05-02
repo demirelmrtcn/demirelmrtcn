@@ -13,5 +13,5 @@ I'm Mertcan, I'm studying at Yıldız Technical University. I am interested in P
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=demirelmrtcn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=demirelmrtcn&icon=2&color=1)]
+![](https://visitcount.itsvg.in/api?id=demirelmrtcn&icon=2&color=1)
 

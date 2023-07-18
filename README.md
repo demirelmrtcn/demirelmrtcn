@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Mertcan, I'm studying at Yıldız Technical University. I am interested in Python programming, statistics and data science and i am improving myself on these subjects.
+I'm Mertcan, I graduated from the Department of Statistics at Yıldız Technical University as the third-ranking student of the department and with the distinction of high honors.. I am interested in Python programming, statistics and data science and I am improving myself on these subjects.
 
 
 ## 🌐 Socials:

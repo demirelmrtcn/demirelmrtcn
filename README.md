@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Mertcan, I graduated from the Department of Statistics at Yıldız Technical University as the third-ranking student of the department and with the distinction of high honors. I am interested in Python programming, statistics and data science and I am improving myself on these subjects. I'm currently working in Akbank as Data Scientist - Model Development.
+I'm Mertcan, I graduated from the Department of Statistics at Yıldız Technical University as the third-ranking student of the department and with the distinction of high honors. I am interested in Python programming, statistics and data science and I am improving myself on these subjects. I'm currently working in Akbank as Data Scientist.
 
 
 ## 🌐 Socials:

@@ -5,7 +5,6 @@
 **Data Scientist – Model Development | Akbank**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/demirelmrtcn/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/demirelmrtcn)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/demirelmrtcn)
 
 </div>
@@ -33,12 +32,16 @@ Statistics graduate from **Yıldız Technical University** (3rd in department, H
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-0088D4?style=flat-square&logo=sas&logoColor=white)
 
+
 **Machine Learning**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square&logo=xgboost&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-189FDD?style=flat-square&logo=catboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-189FDD?style=flat-square&logo=lightgbm&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-189FDD?style=flat-square&logo=optuna&logoColor=white)
 
 **Data & Visualization**
 
@@ -46,6 +49,14 @@ Statistics graduate from **Yıldız Technical University** (3rd in department, H
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+
+**Web Development**
+
+![Django](https://img.shields.io/badge/Django-0954A4?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-329932?style=flat-square&logo=javascript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=flat-square&logo=streamlit&logoColor=white)
 
 </div>
 
@@ -55,7 +66,7 @@ Statistics graduate from **Yıldız Technical University** (3rd in department, H
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**Django Project**](https://github.com/demirelmrtcn/MyraMert) | Personal dashboard — expense analytics, price tracker, media downloader | `Django` `Python` `JavaScript` |
+| **Django Project** | Personal dashboard — expense analytics, price tracker, media downloader | `Django` `Python` `JavaScript` |
 | [**Voice-to-Docx**](https://github.com/demirelmrtcn/Voice-to-Docx) | Audio transcription to Word using Whisper Large-v3 | `Python` `Flask` `Whisper` |
 | [**Customer Segmentation**](https://github.com/demirelmrtcn/Customer-Segmentation-with-Rule-Based-and-Unsupervised-Learning-Methods) | Rule-based & unsupervised learning segmentation | `Python` `Scikit-learn` |
 | [**Airline Satisfaction**](https://github.com/demirelmrtcn/Airline-Passenger-Satisfaction-with-XGBoost-Classifier) | Passenger satisfaction prediction with XGBoost | `Python` `XGBoost` |

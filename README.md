@@ -98,14 +98,16 @@ Statistics graduate from **Yıldız Technical University** (3rd in department, H
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=demirelmrtcn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+<img src="https://github-readme-stats.vercel.app/api?username=demirelmrtcn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&cache_seconds=86400" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=demirelmrtcn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demirelmrtcn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&cache_seconds=86400" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=demirelmrtcn&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
 
 </div>
 
 ---
 
 <div align="center">
-<i>Building models that turn data into decisions</i>
+<i>Building models that turn data into decisions.</i>
 </div>

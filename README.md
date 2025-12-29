@@ -6,8 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/demirelmrtcn/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/demirelmrtcn)
-[![Bento](https://img.shields.io/badge/Bento-768CFF?style=for-the-badge&logo=bento&logoColor=white)](https://bento.me/demirelmrtcn)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/demirelmrtcn)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/demirelmrtcn)
 
 </div>
 
@@ -20,7 +19,7 @@ Statistics graduate from **Yıldız Technical University** (3rd in department, H
 - 🏦 **Model Development** — Credit risk, customer analytics, predictive modeling
 - 🐍 **Python Expert** — PyTorch, TensorFlow, Scikit-learn, XGBoost
 - 📊 **Statistical Foundation** — Regression, hypothesis testing, time series
-- 🎯 **Current Focus** — Deep Learning, NLP, MLOps
+- 🎯 **Current Focus** — LLMs, Generative AI, Deep Learning, RAG Systems, NLP, MLOps
 
 ---
 
@@ -56,7 +55,7 @@ Statistics graduate from **Yıldız Technical University** (3rd in department, H
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**MyraMert**](https://github.com/demirelmrtcn/MyraMert) | Personal dashboard — expense analytics, price tracker, media downloader | `Django` `Python` `JavaScript` |
+| [**Django Project**](https://github.com/demirelmrtcn/MyraMert) | Personal dashboard — expense analytics, price tracker, media downloader | `Django` `Python` `JavaScript` |
 | [**Voice-to-Docx**](https://github.com/demirelmrtcn/Voice-to-Docx) | Audio transcription to Word using Whisper Large-v3 | `Python` `Flask` `Whisper` |
 | [**Customer Segmentation**](https://github.com/demirelmrtcn/Customer-Segmentation-with-Rule-Based-and-Unsupervised-Learning-Methods) | Rule-based & unsupervised learning segmentation | `Python` `Scikit-learn` |
 | [**Airline Satisfaction**](https://github.com/demirelmrtcn/Airline-Passenger-Satisfaction-with-XGBoost-Classifier) | Passenger satisfaction prediction with XGBoost | `Python` `XGBoost` |
@@ -73,6 +72,7 @@ Statistics graduate from **Yıldız Technical University** (3rd in department, H
 <summary><b>📜 Certifications</b></summary>
 <br>
 
+- Data Analytics Certification (Sabancı University Executive Development Unit (EDU))
 - SAS Enterprise Guide 1 & 2 (2024)
 - Python A-Z™: Data Science and Machine Learning — Udemy
 - Python & TensorFlow for Data Science — BTK Akademi

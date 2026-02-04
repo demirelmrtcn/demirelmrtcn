@@ -66,7 +66,7 @@ Statistics graduate from **Yıldız Technical University** (3rd in department, H
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **Django Project** | Personal dashboard — expense analytics, price tracker, media downloader | `Django` `Python` `JavaScript` |
+| [**Django Project**](https://github.com/demirelmrtcn/Django-Website) | Personal dashboard — expense analytics, price tracker, media downloader | `Django` `Python` `JavaScript` |
 | [**Voice-to-Docx**](https://github.com/demirelmrtcn/Voice-to-Docx) | Audio transcription to Word using Whisper Large-v3 | `Python` `Flask` `Whisper` |
 | [**Customer Segmentation**](https://github.com/demirelmrtcn/Customer-Segmentation-with-Rule-Based-and-Unsupervised-Learning-Methods) | Rule-based & unsupervised learning segmentation | `Python` `Scikit-learn` |
 | [**Airline Satisfaction**](https://github.com/demirelmrtcn/Airline-Passenger-Satisfaction-with-XGBoost-Classifier) | Passenger satisfaction prediction with XGBoost | `Python` `XGBoost` |
